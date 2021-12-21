@@ -1,5 +1,6 @@
 @import url(../vendor/normalize.css);
 @import url(../bloсks/root/root.css);
+@import url(../vendor/fonts.css);
 @import url(../blocks/link/link.css);
 @import url(../blocks/header/header.css);
 @import url(../bloсks/header/__logo/header__logo.css);
