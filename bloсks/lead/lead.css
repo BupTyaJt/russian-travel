@@ -1,7 +1,8 @@
-.header {
+.lead {
   width: calc(100% - 2 * 16px);
-  background-color: #2A2C2F;
   display: flex;
-  justify-content: space-between;
+  flex-direction: column;
   align-items: center;
+  justify-content: center;
 }
+

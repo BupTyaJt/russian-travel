@@ -1,7 +1,7 @@
-.header {
+.footer {
   width: calc(100% - 2 * 16px);
-  background-color: #2A2C2F;
+  margin: 92px auto 24px auto;
   display: flex;
   justify-content: space-between;
-  align-items: center;
-}
+  }
+
