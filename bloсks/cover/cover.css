@@ -1,11 +1,8 @@
 .cover {
-  width: calc(100% - 2 * 16px);
-  margin: auto;
-  background: url("../../images/cover-trains.jpg") no-repeat;
-  background-size: cover;
-  position: relative;
-}
 
-* {
-  border: 1px solid red;
+  margin: 66px 0 0 -16px;
+  width: calc(100% + 2 * 16px);
+  background: url("../../images/cover-trains.jpg") no-repeat;
+  background-size: 100% 100%;
+ 
 }
