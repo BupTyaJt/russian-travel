@@ -22,10 +22,13 @@
 @import url(../bloсks/places/places.css);
 @import url(../bloсks/place/place.css);
 @import url(../bloсks/place/__title/place__title.css);
+@import url(../bloсks/place/__website/place__website.css);
 @import url(../bloсks/place/__link-header/place__link-header.css);
 @import url(../bloсks/place/__link/place__link.css);
 @import url(../bloсks/place/__image/place__image.css);
 @import url(../bloсks/place/__paragraph/place__paragraph.css);
+@import url(../bloсks/place/__text/place__text.css);
+@import url(../bloсks/place/__website/place__website.css);
 @import url(../bloсks/cover/cover.css);
 @import url(../bloсks/cover/__title/cover__title.css);
 @import url(../bloсks/cover/__subtitle/cover__subtitle.css);

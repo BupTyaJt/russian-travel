@@ -2,10 +2,14 @@
 margin: 0;
 width: 100%;
 color: #ffffff;
-font-family: Inter;
 font-style: normal;
 font-weight: normal;
 font-size: 18px;
 line-height: 122%;
 text-decoration-line: underline;
+transition: .5s opacity;
+}
+
+.place__link:hover {
+  opacity: .5;
 }
