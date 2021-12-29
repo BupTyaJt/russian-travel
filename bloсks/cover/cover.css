@@ -2,7 +2,7 @@
   position: relative;
   margin: 0 0 0 -16px;
   width: calc(100% + 2 * 16px);
-  background: url("../../../images/cover-trains.jpg") no-repeat;
+  background: url(.//../../images/cover-trains.jpg) no-repeat;
   background-size: 100% 100%;
   min-height: 200px;
   display: flex;
