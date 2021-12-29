@@ -9,7 +9,7 @@
   flex-direction: column;
   justify-content: center;
   color: #fff;
-  z-index: 1;
+  z-index: 3;
 }
 
 .cover::before {
