@@ -17,3 +17,9 @@
     width: 100%;
   }
 }
+
+@media screen and (min-width: 1280px) {
+  .lead__image {
+    margin: 64px 0 0;
+  }
+}
