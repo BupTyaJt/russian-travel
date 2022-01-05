@@ -21,6 +21,7 @@
     margin: 92px 0 0;
     grid-template-columns: repeat(3, minmax(300px, 1fr));
     grid-gap: 14px;
+  }
 }
 
 @media screen and (min-width: 1280px) {
