@@ -1,13 +1,13 @@
 .lead__image {
   display: block;
-  margin: 40px -16px 0;
-  width: calc(100% + 2 * 16px);
+  margin: 40px 0 0;
+  width: 100%;
 }
 
 @media screen and (min-width: 768px) {
   .lead__image {
-    margin: 40px -24px 0;
-    width: calc(100% + 2 * 24px);
+    margin: 56px 0 0;
+    width: 100%;
   }
 }
 

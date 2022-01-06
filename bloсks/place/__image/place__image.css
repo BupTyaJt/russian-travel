@@ -1,6 +1,6 @@
 .place__image {
-  margin: 32px 0 0 -16px;
-  width: calc(100% + 2 * 16px);
+  margin: 31px 0 0;
+  width: 100%;
 }
 
 @media screen and (min-width: 768px) {

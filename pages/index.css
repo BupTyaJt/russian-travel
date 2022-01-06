@@ -1,7 +1,7 @@
 @import url(../vendor/normalize.css);
+@import url(../vendor/fonts.css);
 @import url(../bloсks/root/root.css);
 @import url(../bloсks/content/content.css);
-@import url(../vendor/fonts.css);
 @import url(../bloсks/header/header.css);
 @import url(../bloсks/header/__logo/header__logo.css);
 @import url(../bloсks/header/__lang-item/header__lang-item.css);
@@ -11,6 +11,7 @@
 @import url(../bloсks/lead/lead.css);
 @import url(../bloсks/lead/__title/lead__title.css);
 @import url(../bloсks/lead/__subtitle/lead__subtitle.css);
+@import url(../bloсks/lead/__figure/lead__figure.css);
 @import url(../bloсks/lead/__image/lead__image.css);
 @import url(../bloсks/lead/__caption/lead__caption.css);
 @import url(../bloсks/intro/__title/intro__title.css);
@@ -18,6 +19,7 @@
 @import url(../bloсks/intro/__list/intro__list.css);
 @import url(../bloсks/intro/__list-digit/intro__list-digit.css);
 @import url(../bloсks/photo-grid/photo-grid.css);
+@import url(../bloсks/photo-grid/__list/photo-grid__list.css);
 @import url(../bloсks/photo-grid/__image/photo-drig__image.css);
 @import url(../bloсks/places/places.css);
 @import url(../bloсks/place/place.css);
@@ -33,7 +35,6 @@
 @import url(../bloсks/cover/__title/cover__title.css);
 @import url(../bloсks/cover/__subtitle/cover__subtitle.css);
 @import url(../bloсks/cover/__link/cover__link.css);
-@import url(../bloсks/cover/__links/cover__links.css);
 @import url(../bloсks/footer/footer.css);
 @import url(../bloсks/footer/__links-items/footer__links-items.css);
 @import url(../bloсks/footer/__links/footer__links.css);

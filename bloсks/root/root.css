@@ -7,15 +7,12 @@
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
   -moz-text-size-adjust: 100%;
-  max-width: calc(100% - 2 * 16px);
-  padding: 16px;
+  margin: 0;
+  padding: 0;
 }
 
-@media screen and (min-width: 768px) {
-  .root {
-    width: calc(100% - 2 * 24px);
-    padding: 24px;
-  }
+//* {
+  border: solid 1px red
 }
 
 @media screen and (min-width: 1024px) {

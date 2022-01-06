@@ -1,13 +1,5 @@
 .header__lang-list {
-  margin: 0;
-  padding: 0;
+  margin: 8px 0 0;
   list-style: none;
   display: flex;
-}
-
-@media screen and (min-width: 1280px) {
-  .header__lang-list {
-    position: relative;
-    margin-right: -100px;
-  }
 }

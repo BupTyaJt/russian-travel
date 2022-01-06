@@ -7,6 +7,7 @@
 
 @media screen and (min-width: 768px) {
   .place {
+    margin: 73px 0 0;
     display: grid;
     grid-template-rows: minmax(min-content, max-content) minmax(min-content, max-content);
     grid-template-columns: minmax(min-content, max-content) minmax(min-content, max-content);
