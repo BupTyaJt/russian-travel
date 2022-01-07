@@ -13,13 +13,14 @@
 
 @media screen and (min-width: 1024px) {
   .lead__image {
-    margin: 56px 0 0;
-    width: 100%;
+    margin: 56px 48px 0;
+    width: calc(100% - 2 * 48px);
   }
 }
 
 @media screen and (min-width: 1280px) {
   .lead__image {
-    margin: 64px 0 0;
+    margin: 64px 148px 0;
+    max-width: 984px;
   }
 }

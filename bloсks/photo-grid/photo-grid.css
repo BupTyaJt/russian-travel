@@ -7,8 +7,14 @@
 @media screen and (min-width: 768px) {
   .photo-grid {
     margin: 88px 24px 0;
-    padding-bottom: 14px;
     width: calc(100% - 2 * 24px);
   }
 }
 
+@media screen and (min-width: 1024px) {
+  .photo-grid {
+    margin: 92px 48px 0;
+    width: calc(100% - 2 * 48px);
+    padding-bottom: 12px;
+  }
+}

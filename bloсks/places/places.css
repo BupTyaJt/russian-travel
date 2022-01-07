@@ -11,9 +11,17 @@
   }
 }
 
+@media screen and (min-width: 1024px) {
+  .places {
+    margin: 80px 48px 0;
+    width: calc(100% - 2 * 48px);
+  }
+}
+
+
 @media screen and (min-width: 1280px) {
   .places {
-    margin: 92px 0 0;
-    padding: 0 0 92px;
+    margin: 80px 148px 0;
+    width: calc(100% - 2 * 148px);
   }
 }
